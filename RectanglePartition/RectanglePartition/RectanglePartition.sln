@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectanglePartition", "RectanglePartition.csproj", "{8863E4EF-FC33-4A5D-9B37-A35CCFC9E4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunRectanglePartition", "..\TestRunRectanglePartition\TestRunRectanglePartition.csproj", "{854A2DCA-0E90-43FD-9954-68BE3C757299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8863E4EF-FC33-4A5D-9B37-A35CCFC9E4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8863E4EF-FC33-4A5D-9B37-A35CCFC9E4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8863E4EF-FC33-4A5D-9B37-A35CCFC9E4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8863E4EF-FC33-4A5D-9B37-A35CCFC9E4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854A2DCA-0E90-43FD-9954-68BE3C757299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854A2DCA-0E90-43FD-9954-68BE3C757299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854A2DCA-0E90-43FD-9954-68BE3C757299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854A2DCA-0E90-43FD-9954-68BE3C757299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D2ADBB-724E-4655-98A1-3D2155FC0623}
+	EndGlobalSection
+EndGlobal
