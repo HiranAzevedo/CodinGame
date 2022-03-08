@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarConsole", "WarConsole.csproj", "{B5BF7095-B195-4464-857C-2366F27FE36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarTest", "..\WarTest\WarTest.csproj", "{6B210FEF-5B02-42BD-94F0-05FFD37163DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BF7095-B195-4464-857C-2366F27FE36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BF7095-B195-4464-857C-2366F27FE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BF7095-B195-4464-857C-2366F27FE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BF7095-B195-4464-857C-2366F27FE36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B210FEF-5B02-42BD-94F0-05FFD37163DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B210FEF-5B02-42BD-94F0-05FFD37163DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B210FEF-5B02-42BD-94F0-05FFD37163DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B210FEF-5B02-42BD-94F0-05FFD37163DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1EFFDD-CCF8-43F3-97E6-DF0B2CF30D14}
+	EndGlobalSection
+EndGlobal
